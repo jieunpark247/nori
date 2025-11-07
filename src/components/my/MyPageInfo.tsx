@@ -5,7 +5,6 @@ import Header from './ui/header';
 import Body from './ui/body';
 import Gnb from './ui/gnb';
 import { Failover } from './ui/failover';
-import noriImage from './ui/nori.png';
 import noriInfoImage from './ui/nori_info.svg';
 // import { useRouter } from 'next/navigation';
 import { ChevronRight } from 'lucide-react';
@@ -15,7 +14,7 @@ export interface MyPageProps {
   data: ConvertedMypageResponse;
 }
 
-export const MyPage: React.FC<MyPageProps> = ({ data }) => {
+export const MyPageInfo: React.FC<MyPageProps> = ({ data }) => {
   // const router = useRouter();
   
   // 화면 너비 상태 관리

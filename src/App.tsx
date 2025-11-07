@@ -3,7 +3,7 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom';
 // import Header from './Header';
 import Nori from './Nori';
 import Home from './Home';
-import MyPage from './MyPages';
+import Mypage from './Mypage';
 
 export default function App() {
 	return (
@@ -12,7 +12,7 @@ export default function App() {
 				<Routes>
 					<Route path="/" element={<Home />}></Route>
 					<Route path="/nori" element={<Nori />}></Route>
-					<Route path="mypage" element={<MyPage />}></Route>
+					<Route path="mypage" element={<Mypage />}></Route>
 				</Routes>
 			</BrowserRouter>
 		</div>

@@ -1,7 +1,6 @@
 import React from 'react';
 import type { ConvertedMypageWidget } from '../../../types/mypage';
 import { cn, TextButton, Divider } from '../../nol-design-system';
-import WidgetOrdering from './widget-ordering';
 import { FileStack, ChevronRight } from 'lucide-react';
 
 interface BodyProps {
