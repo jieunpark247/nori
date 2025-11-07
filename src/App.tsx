@@ -10,9 +10,9 @@ export default function App() {
 		<div className='App'>
 			<BrowserRouter>
 				<Routes>
-					<Route path="/" element={<Home />}></Route>
+					<Route path="/" element={<Memeber />}></Route>
 					<Route path="/nori" element={<Nori />}></Route>
-					<Route path="mypage" element={<Memeber />}></Route>
+					<Route path="/mypage" element={<Memeber />}></Route>
 				</Routes>
 			</BrowserRouter>
 		</div>
