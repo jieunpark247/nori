@@ -1,0 +1,118 @@
+[
+  {
+    "id": "v1",
+    "type": "airline",
+    "title": "대한항공 KE723",
+    "subtitle": "인천 → 간사이",
+    "date": "2025-11-15",
+    "voucher": {
+      "title": "인천 → 간사이 공항",
+      "image": "https://images.unsplash.com/photo-1601684632403-4ce4a06d8429?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxqYXBhbiUyMHRyYWluJTIwdGlja2V0fGVufDF8fHx8MTc2MjA3MTMzMnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "date": "2024년 11월 15일",
+      "time": "09:30",
+      "location": "인천국제공항 제1여객터미널",
+      "details": "대한항공 KE723 • 좌석 32A • 이코노미 클래스",
+      "bookingNumber": "KE7231115ABC",
+      "price": "₩450,000",
+      "validity": "2024년 11월 15일 09:30까지 유효",
+      "notes": "출발 2시간 전까지 체크인을 완료해주세요. 여권과 예약 확인서를 지참하세요.",
+      "mapUrl": "https://maps.google.com/?q=인천국제공항+제1여객터미널",
+      "connection": {
+        "text": "약 1시간 소요 • 라피트 특급열차 이용"
+      }
+    }
+  },
+  {
+    "id": "v2",
+    "type": "hotel",
+    "title": "오사카 힐튼 호텔",
+    "subtitle": "4박 숙박권",
+    "date": "2025-11-15",
+    "voucher": {
+      "title": "오사카 힐튼 호텔",
+      "image": "https://images.unsplash.com/photo-1732522158761-6dbc6266e47f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxvc2FrYSUyMGhvdGVsJTIwcm9vbXxlbnwxfHx8fDE3NjIwNzEzMzF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "date": "2024년 11월 15일 ~ 11월 19일 (4박)",
+      "time": "체크인 15:00 / 체크아웃 11:00",
+      "location": "오사카시 기타구 우메다 1-8-8",
+      "details": "디럭스 더블룸 • 조식 포함 • 무료 Wi-Fi • 수영장 이용 가능",
+      "bookingNumber": "HILTON20241115",
+      "price": "₩880,000 (4박)",
+      "validity": "2024년 11월 15일부터 사용 가능",
+      "notes": "체크인 시 신용카드 및 신분증이 필요합니다. 조기 체크인은 객실 상황에 따라 가능합니다.",
+      "mapUrl": "https://maps.google.com/?q=오사카+힐튼+호텔",
+      "connection": {
+        "text": ""
+      }
+    }
+  },
+  {
+    "id": "v3",
+    "type": "ticket",
+    "title": "유니버설 스튜디오",
+    "subtitle": "1일 입장권 + 패스",
+    "date": "2025-11-16",
+    "voucher": {
+      "title": "유니버설 스튜디오 재팬",
+      "image": "https://images.unsplash.com/photo-1731758550151-1551952962ff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxvc2FrYSUyMHVuaXZlcnNhbCUyMHN0dWRpb3MlMjBqYXBhbnxlbnwxfHx8fDE3NjIwNzEzMzF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "date": "2024년 11월 16일",
+      "time": "09:00 (개장시간)",
+      "location": "오사카시 코노하나구 사쿠라지마 2-1-33",
+      "details": "1일 입장권 • 익스프레스 패스 7 포함 • 전 어트랙션 이용 가능",
+      "bookingNumber": "USJ20241116EP7",
+      "price": "₩185,000",
+      "validity": "2024년 11월 16일 당일만 유효",
+      "notes": "입장권은 재입장이 가능합니다. 익스프레스 패스는 지정된 시간에 어트랙션을 이용해주세요.",
+      "mapUrl": "https://maps.google.com/?q=유니버설+스튜디오+재팬",
+      "connection": {
+        "text": ""
+      }
+    }
+  },
+  {
+    "id": "v4",
+    "type": "tour",
+    "title": "교토 당일 투어",
+    "subtitle": "JR 패스 포함",
+    "date": "2025-11-17",
+    "voucher": {
+      "title": "교토 당일 투어",
+      "image": "https://images.unsplash.com/photo-1669954808088-53a3082c00d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxreW90byUyMHRlbXBsZSUyMGphcGFufGVufDF8fHx8MTc2MjA3MTMzMnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "date": "2024년 11월 17일",
+      "time": "08:00 ~ 18:00",
+      "location": "오사카역 중앙 개찰구",
+      "details": "JR 1일 패스 • 킨카쿠지(금각사), 후시미이나리 대사 포함 • 중식 포함",
+      "bookingNumber": "KYOTO1117TOUR",
+      "price": "₩95,000",
+      "validity": "2024년 11월 17일 당일만 유효",
+      "notes": "오전 8시까지 오사카역 중앙 개찰구에 집합해주세요. 편한 신발을 착용하세요.",
+      "mapUrl": "https://maps.google.com/?q=오사카역",
+      "connection": {
+        "text": ""
+      }
+    }
+  },
+  {
+    "id": "v5",
+    "type": "ticket",
+    "title": "킨카쿠지 입장권",
+    "subtitle": "금각사 관람",
+    "date": "2025-11-17",
+    "voucher": {
+      "title": "킨카쿠지 (금각사) 입장권",
+      "image": "https://images.unsplash.com/photo-1669954808088-53a3082c00d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxreW90byUyMHRlbXBsZSUyMGphcGFufGVufDF8fHx8MTc2MjA3MTMzMnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "date": "2024년 11월 17일",
+      "time": "10:30",
+      "location": "교토시 기타구 킨카쿠지초 1",
+      "details": "입장권 • 한국어 오디오 가이드 포함 • 정원 관람 가능",
+      "bookingNumber": "KINKAKU1117",
+      "price": "투어에 포함",
+      "validity": "2024년 11월 17일 10:30 ~ 11:30",
+      "notes": "사진 촬영은 가능하나 플래시 사용은 금지됩니다. 실내에서는 정숙해주세요.",
+      "mapUrl": "https://maps.google.com/?q=킨카쿠지",
+      "connection": {
+        "text": "약 50분 소요 • JR선 이용"
+      }
+    }
+  }
+]
+

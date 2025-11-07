@@ -1,0 +1,215 @@
+[
+  {
+    "day": "Day 1",
+    "date": "11월 15일 (금)",
+    "items": [
+      {
+        "id": "1",
+        "icon": "plane",
+        "iconBg": "dark",
+        "title": "인천 → 간사이 공항",
+        "time": "09:30",
+        "location": "인천국제공항 T1",
+        "details": "대한항공 KE723 • 좌석 32A",
+        "connection": {
+          "text": "약 1시간 소요 • 라피트 특급열차 이용"
+        },
+        "voucher": {
+          "title": "인천 → 간사이 공항",
+          "image": "https://images.unsplash.com/photo-1601684632403-4ce4a06d8429?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxqYXBhbiUyMHRyYWluJTIwdGlja2V0fGVufDF8fHx8MTc2MjA3MTMzMnww&ixlib=rb-4.1.0&q=80&w=1080",
+          "date": "2024년 11월 15일",
+          "time": "09:30",
+          "location": "인천국제공항 제1여객터미널",
+          "details": "대한항공 KE723 • 좌석 32A • 이코노미 클래스",
+          "bookingNumber": "KE7231115ABC",
+          "price": "₩450,000",
+          "validity": "2024년 11월 15일 09:30까지 유효",
+          "notes": "출발 2시간 전까지 체크인을 완료해주세요. 여권과 예약 확인서를 지참하세요.",
+          "mapUrl": "https://maps.google.com/?q=인천국제공항+제1여객터미널"
+        }
+      },
+      {
+        "id": "2",
+        "icon": "building",
+        "iconBg": "dark",
+        "title": "오사카 힐튼 호텔",
+        "time": "15:00",
+        "location": "우메다 지구",
+        "details": "체크인 15:00 • 디럭스 더블룸",
+        "voucher": {
+          "title": "오사카 힐튼 호텔",
+          "image": "https://images.unsplash.com/photo-1732522158761-6dbc6266e47f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxvc2FrYSUyMGhvdGVsJTIwcm9vbXxlbnwxfHx8fDE3NjIwNzEzMzF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+          "date": "2024년 11월 15일 ~ 11월 19일 (4박)",
+          "time": "체크인 15:00 / 체크아웃 11:00",
+          "location": "오사카시 기타구 우메다 1-8-8",
+          "details": "디럭스 더블룸 • 조식 포함 • 무료 Wi-Fi • 수영장 이용 가능",
+          "bookingNumber": "HILTON20241115",
+          "price": "₩880,000 (4박)",
+          "validity": "2024년 11월 15일부터 사용 가능",
+          "notes": "체크인 시 신용카드 및 신분증이 필요합니다. 조기 체크인은 객실 상황에 따라 가능합니다.",
+          "mapUrl": "https://maps.google.com/?q=오사카+힐튼+호텔"
+        }
+      }
+    ]
+  },
+  {
+    "day": "Day 2",
+    "date": "11월 16일 (토)",
+    "items": [
+      {
+        "id": "3",
+        "icon": "ticket",
+        "iconBg": "dark",
+        "title": "유니버설 스튜디오 재팬",
+        "time": "09:00",
+        "location": "유니버설시티",
+        "details": "1일 입장권 • 익스프레스 패스 포함",
+        "voucher": {
+          "title": "유니버설 스튜디오 재팬",
+          "image": "https://images.unsplash.com/photo-1731758550151-1551952962ff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxvc2FrYSUyMHVuaXZlcnNhbCUyMHN0dWRpb3MlMjBqYXBhbnxlbnwxfHx8fDE3NjIwNzEzMzF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+          "date": "2024년 11월 16일",
+          "time": "09:00 (개장시간)",
+          "location": "오사카시 코노하나구 사쿠라지마 2-1-33",
+          "details": "1일 입장권 • 익스프레스 패스 7 포함 • 전 어트랙션 이용 가능",
+          "bookingNumber": "USJ20241116EP7",
+          "price": "₩185,000",
+          "validity": "2024년 11월 16일 당일만 유효",
+          "notes": "입장권은 재입장이 가능합니다. 익스프레스 패스는 지정된 시간에 어트랙션을 이용해주세요.",
+          "mapUrl": "https://maps.google.com/?q=유니버설+스튜디오+재팬"
+        }
+      }
+    ]
+  },
+  {
+    "day": "Day 3",
+    "date": "11월 17일 (일)",
+    "items": [
+      {
+        "id": "4",
+        "icon": "train",
+        "iconBg": "gray",
+        "title": "교토 당일 투어",
+        "time": "08:00",
+        "location": "오사카역 출발",
+        "details": "JR 패스 • 킨카쿠지, 후시미이나리 방문",
+        "connection": {
+          "text": "약 50분 소요 • JR선 이용"
+        },
+        "voucher": {
+          "title": "교토 당일 투어",
+          "image": "https://images.unsplash.com/photo-1669954808088-53a3082c00d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxreW90byUyMHRlbXBsZSUyMGphcGFufGVufDF8fHx8MTc2MjA3MTMzMnww&ixlib=rb-4.1.0&q=80&w=1080",
+          "date": "2024년 11월 17일",
+          "time": "08:00 ~ 18:00",
+          "location": "오사카역 중앙 개찰구",
+          "details": "JR 1일 패스 • 킨카쿠지(금각사), 후시미이나리 대사 포함 • 중식 포함",
+          "bookingNumber": "KYOTO1117TOUR",
+          "price": "₩95,000",
+          "validity": "2024년 11월 17일 당일만 유효",
+          "notes": "오전 8시까지 오사카역 중앙 개찰구에 집합해주세요. 편한 신발을 착용하세요.",
+          "mapUrl": "https://maps.google.com/?q=오사카역"
+        }
+      },
+      {
+        "id": "5",
+        "icon": "castle",
+        "iconBg": "gray",
+        "title": "킨카쿠지 (금각사)",
+        "time": "10:30",
+        "location": "교토시 기타구",
+        "details": "입장권 포함 • 가이드 투어",
+        "voucher": {
+          "title": "킨카쿠지 (금각사) 입장권",
+          "image": "https://images.unsplash.com/photo-1669954808088-53a3082c00d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxreW90byUyMHRlbXBsZSUyMGphcGFufGVufDF8fHx8MTc2MjA3MTMzMnww&ixlib=rb-4.1.0&q=80&w=1080",
+          "date": "2024년 11월 17일",
+          "time": "10:30",
+          "location": "교토시 기타구 킨카쿠지초 1",
+          "details": "입장권 • 한국어 오디오 가이드 포함 • 정원 관람 가능",
+          "bookingNumber": "KINKAKU1117",
+          "price": "투어에 포함",
+          "validity": "2024년 11월 17일 10:30 ~ 11:30",
+          "notes": "사진 촬영은 가능하나 플래시 사용은 금지됩니다. 실내에서는 정숙해주세요.",
+          "mapUrl": "https://maps.google.com/?q=킨카쿠지"
+        }
+      }
+    ]
+  },
+  {
+    "day": "Day 4",
+    "date": "11월 18일 (월)",
+    "items": [
+      {
+        "id": "6",
+        "icon": "castle",
+        "iconBg": "dark",
+        "title": "오사카성 투어",
+        "time": "10:00",
+        "location": "오사카성 공원",
+        "details": "입장권 포함 • 전망대 이용 가능",
+        "voucher": {
+          "title": "오사카성 투어",
+          "image": "https://images.unsplash.com/photo-1725011369349-3b6c4847924f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxvc2FrYSUyMGNhc3RsZSUyMGphcGFufGVufDF8fHx8MTc2MjA1NDEwN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+          "date": "2024년 11월 18일",
+          "time": "10:00 ~ 12:00",
+          "location": "오사카시 추오구 오사카조 1-1",
+          "details": "입장권 • 8층 전망대 이용 • 역사 전시관 관람",
+          "bookingNumber": "OSAKA1118CASTLE",
+          "price": "₩32,000",
+          "validity": "2024년 11월 18일 당일 유효",
+          "notes": "편한 신발을 착용하세요. 엘리베이터는 혼잡할 수 있으니 계단 이용을 권장합니다.",
+          "mapUrl": "https://maps.google.com/?q=오사카성"
+        }
+      },
+      {
+        "id": "7",
+        "icon": "tram",
+        "iconBg": "gray",
+        "title": "도톤보리 & 신사이바시 쇼핑",
+        "time": "14:00",
+        "location": "난바 지구",
+        "details": "자유 시간 • 쇼핑 & 식사",
+        "voucher": {
+          "title": "오사카 지하철 1일권",
+          "image": "https://images.unsplash.com/photo-1601684632403-4ce4a06d8429?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxqYXBhbiUyMHRyYWluJTIwdGlja2V0fGVufDF8fHx8MTc2MjA3MTMzMnww&ixlib=rb-4.1.0&q=80&w=1080",
+          "date": "2024년 11월 18일",
+          "time": "하루 종일 이용 가능",
+          "location": "오사카 지하철 전 노선",
+          "details": "지하철 무제한 이용권 • 미도스지선, 요츠바시선 등 전 노선",
+          "bookingNumber": "SUBWAY1118",
+          "price": "₩12,000",
+          "validity": "2024년 11월 18일 첫차부터 막차까지",
+          "notes": "개찰구에서 카드를 터치하여 사용하세요. 환불 불가.",
+          "mapUrl": "https://maps.google.com/?q=도톤보리"
+        }
+      }
+    ]
+  },
+  {
+    "day": "Day 5",
+    "date": "11월 19일 (화)",
+    "items": [
+      {
+        "id": "8",
+        "icon": "plane",
+        "iconBg": "dark",
+        "title": "간사이 공항 → 인천",
+        "time": "14:30",
+        "location": "간사이 국제공항",
+        "details": "대한항공 KE724 • 좌석 28B",
+        "voucher": {
+          "title": "간사이 공항 → 인천",
+          "image": "https://images.unsplash.com/photo-1601684632403-4ce4a06d8429?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxqYXBhbiUyMHRyYWluJTIwdGlja2V0fGVufDF8fHx8MTc2MjA3MTMzMnww&ixlib=rb-4.1.0&q=80&w=1080",
+          "date": "2024년 11월 19일",
+          "time": "14:30",
+          "location": "간사이 국제공항 제1터미널",
+          "details": "대한항공 KE724 • 좌석 28B • 이코노미 클래스 • 기내식 포함",
+          "bookingNumber": "KE7241119XYZ",
+          "price": "₩450,000",
+          "validity": "2024년 11월 19일 14:30까지 유효",
+          "notes": "출발 2시간 전까지 체크인을 완료해주세요. 면세 한도를 확인하세요.",
+          "mapUrl": "https://maps.google.com/?q=간사이+국제공항"
+        }
+      }
+    ]
+  }
+]
+
