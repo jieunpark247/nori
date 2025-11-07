@@ -3,7 +3,7 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom';
 // import Header from './Header';
 import Nori from './Nori';
 import Home from './Home';
-import MyPage from './Mypage';
+import MyPage from './MyPage';
 
 export default function App() {
 	return (
